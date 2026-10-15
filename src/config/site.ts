@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@InthecloudsStudio-11",
     discord: "https://steamcommunity.com/app/4142020",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt-BR", "de"],
   defaultLocale: "en",
 };

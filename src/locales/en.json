@@ -6,7 +6,17 @@
     "description": "Your ultimate guide to Vision Quest: A New Ascent. Explore dangerous mountain trails, master precise twin-stick combat, defeat multi-phase bosses, and unlock New Game+ with our boss strategies, abilities, achievements, and walkthroughs.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme",
+    "guide": "Guides",
+    "characters": "Characters",
+    "media": "Media",
+    "lore": "Lore",
+    "reviews": "Reviews",
+    "episodes": "Episodes"
+  },
   "home": {
     "meta": {
       "title": "Vision Quest: A New Ascent Wiki - Boss Guides",
@@ -443,7 +453,30 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Vision Quest Guides",
+    "overviewDescription": "Every Vision Quest guide in one place: release date, release time, episode count, how to watch, plot, story, and the full character lineup of the Disney+ series."
+  },
+  "characters": {
+    "overviewTitle": "Vision Quest Characters and Cast",
+    "overviewDescription": "Who is who in Vision Quest: Ultron, Wanda Maximoff, Tommy Maximoff, Wiccan, and the human Ultron persona, with cast details and full character breakdowns."
+  },
+  "media": {
+    "overviewTitle": "Vision Quest Trailers, Episodes and Explainers",
+    "overviewDescription": "Vision Quest official trailer breakdowns, episode recaps, easter eggs, and ending explained coverage of the Marvel Studios series on Disney+."
+  },
+  "lore": {
+    "overviewTitle": "Vision Quest Lore and MCU Timeline",
+    "overviewDescription": "How Vision Quest fits the Marvel Cinematic Universe: the WandaVision trilogy, the road to Doomsday, the Young Avengers setup, and Vision's new suit."
+  },
+  "reviews": {
+    "overviewTitle": "Vision Quest Reviews and Reception",
+    "overviewDescription": "Vision Quest review roundups: Rotten Tomatoes and IMDb scores, Reddit reactions, and a parents guide to decide whether the series is worth watching."
+  },
+  "episodes": {
+    "overviewTitle": "Vision Quest Episodes and Release Schedule",
+    "overviewDescription": "Vision Quest episode guide: the season 1 weekly release schedule, premiere date, episodes 1 and 2 explained, and where to watch every episode."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
