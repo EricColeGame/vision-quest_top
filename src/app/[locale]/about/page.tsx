@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>Vision Quest: A New Ascent Wiki is an independent fan-built guide hub covering boss strategies, twin-stick combat, abilities, achievements, and essential game knowledge for new and veteran players alike.</p>
+      <p>The layout, navigation, article cards, and detail format are reproduced from the target Vision Quest: A New Ascent wiki pages requested for this implementation.</p>
     </LegalPage>
   );
 }

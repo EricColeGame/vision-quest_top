@@ -25,11 +25,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Boss Guides, Twin-Stick Combat, Abilities & Achievements",
   description: "Your ultimate guide to Vision Quest: A New Ascent. Explore dangerous mountain trails, master precise twin-stick combat, defeat multi-phase bosses, and unlock New Game+ with our boss strategies, abilities, achievements, and walkthroughs.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://vision-quest.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://vision-quest.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@vision-quest.top",
   gameUrl: "https://store.steampowered.com/app/4142020/",
   heroVideoId: "M9OcYgjEMls", // Vision Quest: A New Ascent - official Gameplay Trailer
   social: {
-    youtube: "https://www.youtube.com/watch?v=M9OcYgjEMls",
+    youtube: "https://www.youtube.com/@InthecloudsStudio-11",
+    discord: "https://steamcommunity.com/app/4142020",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
