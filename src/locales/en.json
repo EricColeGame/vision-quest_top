@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Vision Quest Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "New to the series? Start with the essentials: who Vision is, why a rebuilt White Vision is hiding in a Scottish pub, and the WandaVision history you need before episode 1."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Episode Schedule",
+          "description": "Every Vision Quest release date on Disney+, from the two-episode premiere through the weekly drops to the November 10 finale, with U.S. and international times."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Characters and Cast",
+          "description": "Meet White Vision, Ultron, Tommy Maximoff and the AI personas inside Vision's head, plus the actors who play them and what each one adds to the story."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Easter Eggs and Ending",
+          "description": "Decode the Age of Ultron callbacks, the WandaVision street names, and the finale's answer to whether White Vision is really the original Vision."
         }
       ]
     },
@@ -62,265 +62,377 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Plot Explained",
+        "Episode Schedule",
+        "Characters and Cast",
+        "Easter Eggs Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Vision Quest Plot Explained",
+          "description": "Vision's quiet life in Scotland, the bounty on his head, Tommy Shepherd and the AI personas inside his mind.",
+          "href": "/guide/vision-quest-plot"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Episode Schedule and Release Dates",
+          "description": "All eight episode dates, the two-episode premiere and the November 10 finale in one calendar.",
+          "href": "/episodes/vision-quest-premiere-date"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "How Many Episodes Does Vision Quest Have?",
+          "description": "The full episode count, every episode title and how the season compares with other Marvel shows.",
+          "href": "/guide/vision-quest-episode-count"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Characters and Cast Guide",
+          "description": "White Vision, Ultron, Tommy Maximoff, Jocasta and Paladin, with the actors behind each role.",
+          "href": "/guide/vision-quest-characters"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Easter Eggs in the Premiere",
+          "description": "Every major callback in the two-episode premiere, from the No Strings title to the W + V carving.",
+          "href": "/media/vision-quest-easter-eggs"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Vision Quest Ending Explained",
+          "description": "What the finale means for White Vision, Billy and Tommy, and the MCU stories that follow.",
+          "href": "/media/vision-quest-ending-explained"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Vision Quest IMDb Breakdown",
+          "description": "How the 8.2 rating was built, what early viewers say and where the series sits in the MCU timeline.",
+          "href": "/reviews/vision-quest-imdb"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Where to Watch Vision Quest",
+          "description": "Disney+ availability, regional release times and everything you need before premiere night.",
+          "href": "/episodes/vision-quest-where-to-watch"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Vision Quest Ultron Explained",
+          "description": "How James Spader's villain survived Age of Ultron and what his return means for Vision.",
+          "href": "/characters/vision-quest-ultron"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Vision Quest?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Vision Quest is Marvel Studios' eight-episode Disney+ series built around Vision, the synthezoid Avenger played by Paul Bettany. Picking up the thread left dangling at the end of WandaVision, it follows a rebuilt, memory-wiped White Vision as he hides in a Scottish pub and tries to work out who he is by consulting the AI personas still embedded in his programming, including J.A.R.V.I.S., F.R.I.D.A.Y. and James Spader's returning Ultron.",
+        "When a bounty is placed on his head, Vision goes on the run with Thomas Shepherd, a boy who may be his son, and the quiet character study turns into a chase thriller. Our wiki breaks down every episode, the confirmed cast, the MCU timeline placement, the Easter eggs, and how the finale sets up Avengers: Doomsday."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Studio",
+          "value": "Marvel Television"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Disney+"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Episodes",
+          "value": "8"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Premiere",
+          "value": "Oct 13, 2026"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Finale",
+          "value": "Nov 10, 2026"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Showrunner",
+          "value": "Terry Matalas"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "MCU Phase",
+          "value": "Phase Six"
+        },
+        {
+          "label": "IMDb Rating",
+          "value": "8.2"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the Vision Quest Wiki",
+      "description": "Eight deep-dive modules cover the Vision Quest story, episode schedule, cast, characters, viewing tips and MCU lore, all sourced from official Marvel pages, early episode coverage and fan wikis.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Vision Quest Series Guide",
+          "description": "Introduce Vision Quest, its core story, main characters and overall viewing experience. Help newcomers understand the series premise, its place in the MCU and how to begin the journey using information from the official Marvel pages.",
+          "href": "/guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Premise",
+              "detail": "A rebuilt White Vision hides in a Scottish pub while he works out who he is"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Mindspace",
+              "detail": "Vision consults the AI personas in his code: J.A.R.V.I.S., F.R.I.D.A.Y. and Ultron"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "MCU Ties",
+              "detail": "Continues the WandaVision and Agatha All Along story thread into Phase Six"
+            },
+            {
+              "label": "Timeline",
+              "detail": "Set after WandaVision and Doctor Strange in the Multiverse of Madness"
+            },
+            {
+              "label": "Genre",
+              "detail": "A psychological character study wrapped inside a fugitive chase thriller"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Vision Quest Beginner Guide",
+          "description": "Provide a beginner-friendly walkthrough covering the starting experience, the characters to know and the history that matters. Explain the main story flow and offer practical tips so first-time viewers can follow the series confidently.",
+          "href": "/guide/vision-quest-plot",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Start with the two-episode premiere: No Strings and Theseus drop together on Disney+"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Catch up on WandaVision first, because White Vision's memory wipe is the starting point"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Learn the core premise: Vision hiding in a Scottish pub and talking to the AIs in his code"
+            },
+            {
+              "label": "4",
+              "detail": "Know the key players: Ultron, Tommy Maximoff, J.A.R.V.I.S. and the bounty hunter Paladin"
+            },
+            {
+              "label": "5",
+              "detail": "Follow the plot guide to track the bounty, the Mindspace and the Young Avengers thread"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Vision Quest Episode Schedule and Release Dates",
+          "description": "Lay out the full release calendar, episode count and drop times in one reference table, so viewers always know which episode arrives next and when it lands in their region.",
+          "href": "/episodes/vision-quest-premiere-date",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "E1-E2",
+              "detail": "Series premiere, Tuesday, October 13, 2026, 9 p.m. ET / 6 p.m. PT on Disney+",
+              "badge": "Aired"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "E3-E4",
+              "detail": "Second double drop, Tuesday, October 20, 2026",
+              "badge": "Next"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "E5-E6",
+              "detail": "Mid-season turning point, Tuesday, October 27, 2026"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "E7",
+              "detail": "Penultimate episode, Tuesday, November 3, 2026"
+            },
+            {
+              "label": "E8",
+              "detail": "Season finale, Tuesday, November 10, 2026"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Vision Quest Walkthrough",
+          "description": "Organize the confirmed story beats, scenes and progression into a structured walkthrough. Explain the important interactions, the identity reveals and the ways each act leads into the next stage of Vision's journey.",
+          "href": "/guide/vision-quest-story",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Quiet exile: Vision works in a Scottish pub under the human alias Sherwood Ellis"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Mindspace dialogue: he consults the AI personas in his programming for guidance"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "The bounty: a price on his head ends his anonymity and forces him on the run"
+            },
+            {
+              "label": "4",
+              "detail": "Thomas Shepherd: the boy who may be his son joins the journey and raises the stakes"
+            },
+            {
+              "label": "5",
+              "detail": "The finale: Vision chooses a future instead of waiting for his old memories to return"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Vision Quest Characters and Cast",
+          "description": "Introduce the main characters, guides, companions and important figures confirmed in the series. Summarize their roles, interactions and contributions to the story so viewers can follow the narrative and the relationships.",
+          "href": "/guide/vision-quest-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Vision",
+              "detail": "Paul Bettany returns as Vision and as the rebuilt, memory-wiped White Vision"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Ultron",
+              "detail": "James Spader voices the AI persona lurking inside Vision's programming"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Tommy",
+              "detail": "Ruaridh Mollica plays Tommy Maximoff, Wanda's speedster son"
+            },
+            {
+              "label": "JARVIS",
+              "detail": "James D'Arcy plays Tony Stark's original AI as Vision's older brother"
+            },
+            {
+              "label": "Paladin",
+              "detail": "Todd Stashwick plays the comic-book wildcard from Vision's new life"
+            },
+            {
+              "label": "Jocasta",
+              "detail": "An AI presence tied to Vision's lineage, played by T'Nia Miller"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Vision Quest Tips and Strategies",
+          "description": "Collect practical tips for watching, keeping up and reading the story, ranked by how much they change the experience. Prioritize advice drawn from official Marvel material and early episode coverage.",
+          "href": "/reviews/vision-quest-review",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Watch the premiere within 24 hours and mute show terms, because the double drop is the biggest spoiler window"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Read the WandaVision recap first: White Vision's memory wipe and his exit from Westview set everything up"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Keep the release calendar handy, since new episodes land Tuesdays at 9 p.m. ET in the U.S."
+            },
+            {
+              "label": "C",
+              "detail": "Run the Easter egg guide after each episode to catch the callbacks hidden in the pub scenes"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Vision Quest Where to Watch and Platforms",
+          "description": "Explain where viewers can watch the series, which regions and platforms are supported, and what a subscription costs. Direct readers to Marvel-controlled pages and clearly identify which Vision Quest title this is.",
+          "href": "/episodes/vision-quest-where-to-watch",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Disney+",
+              "detail": "The series streams exclusively on Disney+ in the U.S. and most regions"
+            },
+            {
+              "label": "Tuesdays",
+              "detail": "New episodes arrive Tuesdays at 9 p.m. ET, or Wednesdays in the UK and Europe"
+            },
+            {
+              "label": "8 Episodes",
+              "detail": "One eight-episode season runs from the October premiere to the finale"
+            },
+            {
+              "label": "Regions",
+              "detail": "Drop times shift by time zone: 2 a.m. BST in the UK and 3 a.m. CEST in Europe"
+            },
+            {
+              "label": "Not 1985",
+              "detail": "This is the 2026 Marvel series, not the 1985 wrestling drama of the same name"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Vision Quest Updates and Development News",
+          "description": "Present confirmed development updates, premiere announcements, review coverage and Marvel notes relevant to the series. Keep the section current from official announcements and the latest episode coverage.",
+          "href": "/episodes/vision-quest-weekly-release",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Premiere",
+              "detail": "Episodes 1 and 2, No Strings and Theseus, arrived on Disney+ in October 2026"
+            },
+            {
+              "label": "Schedule",
+              "detail": "The season rolls out in weekly Tuesday drops through the November 10 finale"
+            },
+            {
+              "label": "Reviews",
+              "detail": "Early episodes sit around 8.1 to 8.3 on IMDb as critics praise the tonal shift"
+            },
+            {
+              "label": "Trailer",
+              "detail": "The D23 2026 trailer confirmed Ultron's return, Vision in Scotland and Madripoor"
+            },
+            {
+              "label": "Phase Six",
+              "detail": "A Phase Six title following Agatha All Along in the WandaVision trilogy"
+            },
+            {
+              "label": "Doomsday",
+              "detail": "The finale feeds the Young Avengers thread into Avengers: Doomsday"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Vision Quest FAQ",
+      "description": "Quick answers to the most common questions about Marvel's Vision Quest series on Disney+.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Vision Quest about?",
+          "answer": "Vision Quest follows a rebuilt, memory-wiped White Vision as he hides in a Scottish pub and tries to understand who he is by talking to the AI personas inside his programming, including J.A.R.V.I.S., F.R.I.D.A.Y. and Ultron. When a bounty is placed on his head, the quiet character study becomes a chase thriller."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When does Vision Quest premiere and how many episodes are there?",
+          "answer": "Vision Quest premieres with two episodes on Disney+ on Tuesday, October 13, 2026, and runs for eight episodes, closing with the season finale on November 10, 2026."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Where can I watch Vision Quest?",
+          "answer": "Vision Quest streams exclusively on Disney+. New episodes arrive Tuesdays at 9 p.m. ET in the U.S., which is early Wednesday morning in the UK and Europe."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Do I need to watch WandaVision before Vision Quest?",
+          "answer": "Yes. Vision Quest picks up the thread from WandaVision, where White Vision's memories were restored and he left Westview to find himself. Agatha All Along is optional, but it fills in the wider Maximoff family story."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is Vision Quest connected to Avengers: Doomsday?",
+          "answer": "Vision Quest is a Phase Six series that feeds directly into Avengers: Doomsday, and its finale keeps the Young Avengers thread around Tommy Maximoff open for what comes next."
         }
       ]
     },
