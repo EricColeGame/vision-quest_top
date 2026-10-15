@@ -245,11 +245,41 @@ const GROUP_TITLES: Record<string, string> = {
   episodes: "Episodes",
 };
 
-// locale → 分组标题映射（当前仅提供英文分组标题，其他语言回退到英文）
-const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {};
+// locale → 分组标题映射（未配置的语言回退到英文 GROUP_TITLES）
+const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
+  es: {
+    guide: "Guías",
+    characters: "Personajes",
+    media: "Multimedia",
+    lore: "Lore",
+    reviews: "Reseñas",
+    episodes: "Episodios",
+  },
+  "pt-BR": {
+    guide: "Guias",
+    characters: "Personagens",
+    media: "Mídia",
+    lore: "Lore",
+    reviews: "Análises",
+    episodes: "Episódios",
+  },
+  de: {
+    guide: "Guides",
+    characters: "Charaktere",
+    media: "Medien",
+    lore: "Lore",
+    reviews: "Tests",
+    episodes: "Episoden",
+  },
+};
 
 // locale → "Overview" 翻译（未配置的语言回退到 "Overview"）
-const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {};
+const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
+  en: "Overview",
+  es: "Resumen",
+  "pt-BR": "Visão geral",
+  de: "Übersicht",
+};
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [

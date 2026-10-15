@@ -1,1 +1,515 @@
-{}
+{
+  "site": {
+    "name": "Vision Quest: A New Ascent Wiki",
+    "shortName": "Vision Quest",
+    "tagline": "Guías de jefes, combate twin-stick, habilidades y logros",
+    "description": "Tu guía definitiva de Vision Quest: A New Ascent. Explora senderos de montaña peligrosos, domina el combate twin-stick de precisión, derrota a jefes con varias fases y desbloquea el New Game+ con nuestras estrategias de jefes, habilidades, logros y guías paso a paso.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "characters": "Personajes",
+    "media": "Multimedia",
+    "lore": "Lore",
+    "reviews": "Reseñas",
+    "episodes": "Episodios"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Vision Quest: A New Ascent - Guías de jefes",
+      "description": "Explora las guías de Vision Quest: A New Ascent sobre jefes, combate, habilidades, logros, exploración de la montaña y consejos de New Game+ para superar todos los desafíos."
+    },
+    "hero": {
+      "eyebrow": "Aventura de acción twin-stick de fantasía oscura",
+      "title": "Vision Quest: A New Ascent Wiki",
+      "description": "Explora senderos de montaña peligrosos, domina el combate twin-stick de precisión, derrota a jefes con varias fases y desbloquea el New Game+ en Vision Quest: A New Ascent. Encuentra guías de juego, estrategias de jefes, habilidades, logros y consejos para tu ascenso.",
+      "stats": [
+        "Fecha de lanzamiento: 30 jul 2026",
+        "3 jefes principales",
+        "13 logros de Steam",
+        "6 reseñas de usuarios de Steam"
+      ],
+      "primaryCta": "Lee la guía para principiantes",
+      "secondaryCta": "Guías de jefes",
+      "tertiaryCta": "Jugar en Steam",
+      "videoLabel": "Tráiler oficial de jugabilidad"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en Vision Quest",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "¿Nuevo en la saga? Empieza por lo esencial: quién es Vision, por qué un White Vision reconstruido se esconde en un pub escocés y la historia de WandaVision que necesitas antes del episodio 1."
+        },
+        {
+          "number": "2",
+          "title": "Calendario de episodios",
+          "description": "Todas las fechas de estreno de Vision Quest en Disney+, desde el estreno doble hasta los episodios semanales y el final del 10 de noviembre, con horarios de EE. UU. e internacionales."
+        },
+        {
+          "number": "3",
+          "title": "Personajes y reparto",
+          "description": "Conoce a White Vision, Ultron, Tommy Maximoff y las personalidades de IA dentro de la cabeza de Vision, además de los actores que los interpretan y lo que aporta cada uno a la historia."
+        },
+        {
+          "number": "4",
+          "title": "Easter eggs y final",
+          "description": "Descifra las referencias a Age of Ultron, los nombres de calles de WandaVision y la respuesta del final a si White Vision es realmente el Vision original."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias de ahora",
+      "quickLinks": [
+        "Trama explicada",
+        "Calendario de episodios",
+        "Personajes y reparto",
+        "Guía de easter eggs"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "La trama de Vision Quest explicada",
+          "description": "La vida tranquila de Vision en Escocia, la recompensa por su cabeza, Tommy Shepherd y las personalidades de IA dentro de su mente.",
+          "href": "/guide/vision-quest-plot"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Calendario de episodios y fechas de estreno",
+          "description": "Las ocho fechas de los episodios, el estreno doble y el final del 10 de noviembre en un solo calendario.",
+          "href": "/episodes/vision-quest-premiere-date"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "¿Cuántos episodios tiene Vision Quest?",
+          "description": "El número total de episodios, todos los títulos y cómo se compara la temporada con otras series de Marvel.",
+          "href": "/guide/vision-quest-episode-count"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de personajes y reparto",
+          "description": "White Vision, Ultron, Tommy Maximoff, Jocasta y Paladin, con los actores detrás de cada papel.",
+          "href": "/guide/vision-quest-characters"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Easter eggs del estreno",
+          "description": "Todas las referencias importantes del estreno doble, desde el título No Strings hasta el grabado W + V.",
+          "href": "/media/vision-quest-easter-eggs"
+        },
+        {
+          "badge": "Popular",
+          "title": "El final de Vision Quest explicado",
+          "description": "Qué significa el final para White Vision, Billy y Tommy, y las historias del MCU que vienen después.",
+          "href": "/media/vision-quest-ending-explained"
+        },
+        {
+          "badge": "Popular",
+          "title": "Vision Quest en IMDb: análisis",
+          "description": "Cómo se construyó la nota de 8,2, qué dicen los primeros espectadores y dónde encaja la serie en la cronología del MCU.",
+          "href": "/reviews/vision-quest-imdb"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Dónde ver Vision Quest",
+          "description": "Disponibilidad en Disney+, horarios regionales de estreno y todo lo que necesitas antes de la noche del estreno.",
+          "href": "/episodes/vision-quest-where-to-watch"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Ultron en Vision Quest explicado",
+          "description": "Cómo el villano de James Spader sobrevivió a Age of Ultron y qué significa su regreso para Vision.",
+          "href": "/characters/vision-quest-ultron"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Vision Quest?",
+      "paragraphs": [
+        "Vision Quest es la serie de ocho episodios de Marvel Studios para Disney+ centrada en Vision, el sintozoide vengador interpretado por Paul Bettany. Retomando el hilo que quedó abierto al final de WandaVision, sigue a un White Vision reconstruido y sin memoria que se esconde en un pub escocés y trata de descubrir quién es consultando las personalidades de IA que siguen integradas en su programación, incluidos J.A.R.V.I.S., F.R.I.D.A.Y. y el Ultron de James Spader.",
+        "Cuando ponen precio a su cabeza, Vision huye junto a Thomas Shepherd, un chico que podría ser su hijo, y el tranquilo estudio de personaje se convierte en un thriller de persecución. Nuestra wiki analiza cada episodio, el reparto confirmado, el lugar de la serie en la cronología del MCU, los easter eggs y cómo el final prepara Avengers: Doomsday."
+      ],
+      "stats": [
+        {
+          "label": "Estudio",
+          "value": "Marvel Television"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Disney+"
+        },
+        {
+          "label": "Episodios",
+          "value": "8"
+        },
+        {
+          "label": "Estreno",
+          "value": "13 oct 2026"
+        },
+        {
+          "label": "Final",
+          "value": "10 nov 2026"
+        },
+        {
+          "label": "Showrunner",
+          "value": "Terry Matalas"
+        },
+        {
+          "label": "Fase del MCU",
+          "value": "Fase seis"
+        },
+        {
+          "label": "Nota en IMDb",
+          "value": "8,2"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de Vision Quest",
+      "description": "Ocho módulos en profundidad cubren la historia de Vision Quest, el calendario de episodios, el reparto, los personajes, consejos para verla y la lore del MCU, todo basado en páginas oficiales de Marvel, la cobertura de los primeros episodios y wikis de fans.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía de la serie Vision Quest",
+          "description": "Presenta Vision Quest, su historia principal, sus personajes clave y la experiencia de visionado general. Ayuda a los recién llegados a entender la premisa de la serie, su lugar en el MCU y cómo empezar el viaje usando información de las páginas oficiales de Marvel.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Premisa",
+              "detail": "Un White Vision reconstruido se esconde en un pub escocés mientras averigua quién es"
+            },
+            {
+              "label": "Mentespacio",
+              "detail": "Vision consulta las personalidades de IA de su código: J.A.R.V.I.S., F.R.I.D.A.Y. y Ultron"
+            },
+            {
+              "label": "Vínculos con el MCU",
+              "detail": "Continúa el hilo argumental de WandaVision y Agatha All Along hasta la fase seis"
+            },
+            {
+              "label": "Cronología",
+              "detail": "Ambientada después de WandaVision y Doctor Strange en el multiverso de la locura"
+            },
+            {
+              "label": "Género",
+              "detail": "Un estudio psicológico de personaje envuelto en un thriller de fuga"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para principiantes de Vision Quest",
+          "description": "Ofrece un recorrido apto para principiantes que cubre la experiencia inicial, los personajes que hay que conocer y la historia que importa. Explica el flujo principal de la trama y ofrece consejos prácticos para que quienes la ven por primera vez sigan la serie con confianza.",
+          "href": "/guide/vision-quest-plot",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Empieza por el estreno doble: No Strings y Theseus llegan juntos a Disney+"
+            },
+            {
+              "label": "2",
+              "detail": "Ponte al día con WandaVision primero, porque el borrado de memoria de White Vision es el punto de partida"
+            },
+            {
+              "label": "3",
+              "detail": "Aprende la premisa central: Vision escondido en un pub escocés hablando con las IA de su código"
+            },
+            {
+              "label": "4",
+              "detail": "Conoce a los protagonistas: Ultron, Tommy Maximoff, J.A.R.V.I.S. y el cazarrecompensas Paladin"
+            },
+            {
+              "label": "5",
+              "detail": "Sigue la guía de la trama para rastrear la recompensa, el Mentespacio y el hilo de los Young Avengers"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Calendario de episodios y fechas de estreno de Vision Quest",
+          "description": "Expone el calendario completo de estrenos, el número de episodios y los horarios en una sola tabla de referencia, para que quien la vea sepa siempre qué episodio llega después y cuándo se estrena en su región.",
+          "href": "/episodes/vision-quest-premiere-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "E1-E2",
+              "detail": "Estreno de la serie, martes 13 de octubre de 2026, 21:00 ET / 18:00 PT en Disney+",
+              "badge": "Emitido"
+            },
+            {
+              "label": "E3-E4",
+              "detail": "Segundo estreno doble, martes 20 de octubre de 2026",
+              "badge": "Siguiente"
+            },
+            {
+              "label": "E5-E6",
+              "detail": "Punto de inflexión de mitad de temporada, martes 27 de octubre de 2026"
+            },
+            {
+              "label": "E7",
+              "detail": "Penúltimo episodio, martes 3 de noviembre de 2026"
+            },
+            {
+              "label": "E8",
+              "detail": "Final de temporada, martes 10 de noviembre de 2026"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Recorrido de Vision Quest",
+          "description": "Organiza los momentos confirmados de la historia, las escenas y la progresión en un recorrido estructurado. Explica las interacciones importantes, las revelaciones de identidad y la forma en que cada acto conduce a la siguiente etapa del viaje de Vision.",
+          "href": "/guide/vision-quest-story",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Exilio tranquilo: Vision trabaja en un pub escocés bajo el alias humano Sherwood Ellis"
+            },
+            {
+              "label": "2",
+              "detail": "Diálogo en el Mentespacio: consulta las personalidades de IA de su programación en busca de guía"
+            },
+            {
+              "label": "3",
+              "detail": "La recompensa: el precio por su cabeza acaba con su anonimato y lo obliga a huir"
+            },
+            {
+              "label": "4",
+              "detail": "Thomas Shepherd: el chico que podría ser su hijo se une al viaje y sube las apuestas"
+            },
+            {
+              "label": "5",
+              "detail": "El final: Vision elige un futuro en lugar de esperar a que vuelvan sus viejos recuerdos"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Personajes y reparto de Vision Quest",
+          "description": "Presenta a los personajes principales, guías, compañeros y figuras importantes confirmadas en la serie. Resume sus papeles, interacciones y aportaciones a la historia para que el público siga la narración y las relaciones.",
+          "href": "/guide/vision-quest-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Vision",
+              "detail": "Paul Bettany vuelve como Vision y como el White Vision reconstruido y sin memoria"
+            },
+            {
+              "label": "Ultron",
+              "detail": "James Spader pone voz a la personalidad de IA que acecha en la programación de Vision"
+            },
+            {
+              "label": "Tommy",
+              "detail": "Ruaridh Mollica interpreta a Tommy Maximoff, el hijo velocista de Wanda"
+            },
+            {
+              "label": "JARVIS",
+              "detail": "James D'Arcy interpreta a la IA original de Tony Stark como el hermano mayor de Vision"
+            },
+            {
+              "label": "Paladin",
+              "detail": "Todd Stashwick interpreta al comodín del cómic en la nueva vida de Vision"
+            },
+            {
+              "label": "Jocasta",
+              "detail": "Una presencia de IA ligada al linaje de Vision, interpretada por T'Nia Miller"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Consejos y estrategias para Vision Quest",
+          "description": "Reúne consejos prácticos para verla, seguirla y leer la historia, ordenados por cuánto cambian la experiencia. Prioriza los consejos extraídos del material oficial de Marvel y de la cobertura de los primeros episodios.",
+          "href": "/reviews/vision-quest-review",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Ve el estreno en las primeras 24 horas y silencia los términos de la serie, porque el doble estreno es la mayor ventana de spoilers"
+            },
+            {
+              "label": "A",
+              "detail": "Lee antes el resumen de WandaVision: el borrado de memoria de White Vision y su salida de Westview lo preparan todo"
+            },
+            {
+              "label": "B",
+              "detail": "Ten a mano el calendario de estrenos, porque los episodios nuevos llegan los martes a las 21:00 ET en EE. UU."
+            },
+            {
+              "label": "C",
+              "detail": "Pasa la guía de easter eggs después de cada episodio para cazar las referencias ocultas en las escenas del pub"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Dónde ver Vision Quest y plataformas",
+          "description": "Explica dónde puede verse la serie, qué regiones y plataformas son compatibles y cuánto cuesta una suscripción. Dirige a los lectores a las páginas controladas por Marvel e identifica con claridad de qué Vision Quest se trata.",
+          "href": "/episodes/vision-quest-where-to-watch",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Disney+",
+              "detail": "La serie se emite en exclusiva en Disney+ en EE. UU. y la mayoría de las regiones"
+            },
+            {
+              "label": "Martes",
+              "detail": "Los episodios nuevos llegan los martes a las 21:00 ET, o los miércoles en el Reino Unido y Europa"
+            },
+            {
+              "label": "8 episodios",
+              "detail": "Una única temporada de ocho episodios va del estreno de octubre al final"
+            },
+            {
+              "label": "Regiones",
+              "detail": "Los horarios cambian según la zona: 2:00 BST en el Reino Unido y 3:00 CEST en Europa"
+            },
+            {
+              "label": "No es la de 1985",
+              "detail": "Esta es la serie de Marvel de 2026, no el drama de lucha libre de 1985 con el mismo nombre"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Novedades y desarrollo de Vision Quest",
+          "description": "Presenta las novedades de desarrollo confirmadas, los anuncios de estreno, la cobertura de reseñas y las notas de Marvel relevantes para la serie. Mantén la sección al día con los anuncios oficiales y la cobertura de los últimos episodios.",
+          "href": "/episodes/vision-quest-weekly-release",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Estreno",
+              "detail": "Los episodios 1 y 2, No Strings y Theseus, llegaron a Disney+ en octubre de 2026"
+            },
+            {
+              "label": "Calendario",
+              "detail": "La temporada se despliega con estrenos semanales los martes hasta el final del 10 de noviembre"
+            },
+            {
+              "label": "Reseñas",
+              "detail": "Los primeros episodios se sitúan entre 8,1 y 8,3 en IMDb mientras la crítica elogia el cambio de tono"
+            },
+            {
+              "label": "Tráiler",
+              "detail": "El tráiler de la D23 2026 confirmó el regreso de Ultron, Vision en Escocia y Madripoor"
+            },
+            {
+              "label": "Fase seis",
+              "detail": "Un título de la fase seis que sigue a Agatha All Along en la trilogía de WandaVision"
+            },
+            {
+              "label": "Doomsday",
+              "detail": "El final enlaza el hilo de los Young Avengers con Avengers: Doomsday"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Vision Quest",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre la serie Vision Quest de Marvel en Disney+.",
+      "items": [
+        {
+          "question": "¿De qué trata Vision Quest?",
+          "answer": "Vision Quest sigue a un White Vision reconstruido y sin memoria que se esconde en un pub escocés y trata de entender quién es hablando con las personalidades de IA de su programación, incluidos J.A.R.V.I.S., F.R.I.D.A.Y. y Ultron. Cuando ponen precio a su cabeza, el tranquilo estudio de personaje se convierte en un thriller de persecución."
+        },
+        {
+          "question": "¿Cuándo se estrena Vision Quest y cuántos episodios tiene?",
+          "answer": "Vision Quest se estrena con dos episodios en Disney+ el martes 13 de octubre de 2026 y consta de ocho episodios, que cierran con el final de temporada el 10 de noviembre de 2026."
+        },
+        {
+          "question": "¿Dónde puedo ver Vision Quest?",
+          "answer": "Vision Quest se emite en exclusiva en Disney+. Los episodios nuevos llegan los martes a las 21:00 ET en EE. UU., lo que en el Reino Unido y Europa supone la madrugada del miércoles."
+        },
+        {
+          "question": "¿Tengo que ver WandaVision antes de Vision Quest?",
+          "answer": "Sí. Vision Quest retoma el hilo de WandaVision, donde se restauraron los recuerdos de White Vision y este abandonó Westview para encontrarse a sí mismo. Agatha All Along es opcional, pero completa la historia de la familia Maximoff."
+        },
+        {
+          "question": "¿Vision Quest está conectada con Avengers: Doomsday?",
+          "answer": "Vision Quest es una serie de la fase seis que enlaza directamente con Avengers: Doomsday, y su final deja abierto el hilo de los Young Avengers en torno a Tommy Maximoff para lo que venga después."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Vision Quest: A New Ascent?",
+      "description": "Desde tus primeros pasos en el sendero de montaña hasta las partidas de New Game+ del endgame, nuestra wiki comunitaria te cubre con guías gratuitas y actualizadas de jefes, combate y logros.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Vision Quest",
+    "overviewDescription": "Todas las guías de Vision Quest en un solo lugar: fecha y hora de estreno, número de episodios, cómo verla, la trama, la historia y el reparto completo de la serie de Disney+."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y reparto de Vision Quest",
+    "overviewDescription": "Quién es quién en Vision Quest: Ultron, Wanda Maximoff, Tommy Maximoff, Wiccan y la personalidad humana de Ultron, con detalles del reparto y análisis completos de cada personaje."
+  },
+  "media": {
+    "overviewTitle": "Tráilers, episodios y análisis de Vision Quest",
+    "overviewDescription": "Análisis de los tráilers oficiales de Vision Quest, resúmenes de episodios, easter eggs y explicaciones del final de la serie de Marvel Studios en Disney+."
+  },
+  "lore": {
+    "overviewTitle": "Lore y cronología del MCU en Vision Quest",
+    "overviewDescription": "Cómo encaja Vision Quest en el Universo Cinematográfico de Marvel: la trilogía de WandaVision, el camino hacia Doomsday, la preparación de los Young Avengers y el nuevo traje de Vision."
+  },
+  "reviews": {
+    "overviewTitle": "Reseñas y recepción de Vision Quest",
+    "overviewDescription": "Recopilación de reseñas de Vision Quest: notas de Rotten Tomatoes e IMDb, reacciones en Reddit y una guía para padres que ayuda a decidir si merece la pena verla."
+  },
+  "episodes": {
+    "overviewTitle": "Episodios y calendario de estrenos de Vision Quest",
+    "overviewDescription": "Guía de episodios de Vision Quest: el calendario semanal de la temporada 1, la fecha de estreno, los episodios 1 y 2 explicados y dónde ver cada episodio."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice de contenidos",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Vision Quest: A New Ascent Wiki",
+    "about": "Vision Quest: A New Ascent Wiki es un centro de guías independiente creado por fans que cubre estrategias de jefes, combate twin-stick, habilidades, logros y los conocimientos esenciales del juego, tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Vision Quest: A New Ascent Wiki. Sin afiliación con intheclouds studio ni Valve.",
+    "description": "Una exigente aventura de acción twin-stick. 3 jefes principales, 13 logros de Steam y New Game+.",
+    "playGame": "Jugar en Steam",
+    "officialDiscord": "Centro de la comunidad de Steam",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Novedades de Vision Quest",
+    "guideHub": "Guías",
+    "charactersHub": "Personajes",
+    "episodesHub": "Episodios",
+    "loreHub": "Lore",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
