@@ -19,18 +19,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Vision Quest: A New Ascent Wiki",
+  shortName: "Vision Quest",
+  logoText: "VQ",
+  tagline: "Boss Guides, Twin-Stick Combat, Abilities & Achievements",
+  description: "Your ultimate guide to Vision Quest: A New Ascent. Explore dangerous mountain trails, master precise twin-stick combat, defeat multi-phase bosses, and unlock New Game+ with our boss strategies, abilities, achievements, and walkthroughs.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://vision-quest.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://vision-quest.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/4142020/",
+  heroVideoId: "M9OcYgjEMls", // Vision Quest: A New Ascent - official Gameplay Trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/watch?v=M9OcYgjEMls",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
